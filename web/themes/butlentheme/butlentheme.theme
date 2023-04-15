@@ -1,0 +1,6 @@
+<?php
+
+function butlentheme_preprocess_page(&$variables) {
+// Call the library for your theme.
+$variables['#attached']['library'][] = 'butlentheme/global-styling';
+}
