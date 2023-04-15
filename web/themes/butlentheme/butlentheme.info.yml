@@ -1,0 +1,10 @@
+name: butlentheme
+type: theme
+description: 'un theme de jazz'
+core_version_requirement: ^8 || ^9 || ^10
+base theme: stable9
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  footer: 'Footer'
